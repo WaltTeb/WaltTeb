@@ -1,4 +1,21 @@
-### Hi there 👋
+# Hello, I'm Walter Tebbetts (he/him) 👋
+
+I am currently a Junior at the University of Massachusetts Amherst obtaining a BS in Computer Engineering, and a BA in Computer Science.
+I am also actively searching for a summer 2024 internship.
+
+
+## Interests 🔭:
+I am especially interested in low-level systems programming, embedded systems, and web development. I love learning how levels of abstraction build on one another to power modern computing.
+
+## Check This Out ⚡:
+I have a couple public projects on my GitHub below 👇
+
+Also check out [my personal website](https://waltteb.github.io/) for more detail, and additional projects!
+
+### Links 🌱:
+- [LinkedIn](www.linkedin.com/in/walter-tebbetts)
+- [My Website](https://waltteb.github.io/)
+- [Instagram](https://www.instagram.com/returnofthepackard/)
 
 <!--
 **WaltTeb/WaltTeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
