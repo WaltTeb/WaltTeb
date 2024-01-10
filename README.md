@@ -12,7 +12,7 @@ I have a couple public projects on my GitHub below 👇
 
 Also check out [my personal website](https://waltteb.github.io/) for more detail, and additional projects!
 
-### Links 🌱:
+### Links 🔗:
 - [LinkedIn](www.linkedin.com/in/walter-tebbetts)
 - [My Website](https://waltteb.github.io/)
 - [Instagram](https://www.instagram.com/returnofthepackard/)
