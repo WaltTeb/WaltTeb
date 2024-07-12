@@ -17,7 +17,7 @@ Also check out [my personal website](https://waltteb.github.io/) for more detail
 - [My Website](https://waltteb.github.io/)
 - [Instagram](https://www.instagram.com/returnofthepackard/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WaltTeb&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WaltTeb&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **WaltTeb/WaltTeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
