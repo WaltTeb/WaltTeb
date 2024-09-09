@@ -1,7 +1,7 @@
 # Hello, I'm Walter Tebbetts (he/him) 👋
 
-I am currently a Junior at the University of Massachusetts Amherst obtaining a BS in Computer Engineering, and a BA in Computer Science.
-I am also actively searching for a summer 2024 internship.
+I am currently a senior at the University of Massachusetts Amherst obtaining a BS in Computer Engineering, and a BA in Computer Science.
+I am also actively searching for a new-grad position starting summer 2025.
 
 
 ## Interests 🔭:
